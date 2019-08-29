@@ -8,6 +8,7 @@
     transform: rotate(360deg);
   }
 }
+
 @-webkit-keyframes lds-double-ring {
   0% {
     -webkit-transform: rotate(0);
